@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: dx844v9vp-nodejs-gitops-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/dx844v9vp-nodejs-gitops
